@@ -1,0 +1,11 @@
+c:\users\ozkaya\source\repos\HassTableApp\HashTable\bin\Debug\netcoreapp2.0\HashTable.deps.json
+c:\users\ozkaya\source\repos\HassTableApp\HashTable\bin\Debug\netcoreapp2.0\HashTable.runtimeconfig.json
+c:\users\ozkaya\source\repos\HassTableApp\HashTable\bin\Debug\netcoreapp2.0\HashTable.runtimeconfig.dev.json
+c:\users\ozkaya\source\repos\HassTableApp\HashTable\bin\Debug\netcoreapp2.0\HashTable.dll
+c:\users\ozkaya\source\repos\HassTableApp\HashTable\bin\Debug\netcoreapp2.0\HashTable.pdb
+c:\users\ozkaya\source\repos\HassTableApp\HashTable\obj\Debug\netcoreapp2.0\HashTable.csprojResolveAssemblyReference.cache
+c:\users\ozkaya\source\repos\HassTableApp\HashTable\obj\Debug\netcoreapp2.0\HashTable.csproj.CoreCompileInputs.cache
+c:\users\ozkaya\source\repos\HassTableApp\HashTable\obj\Debug\netcoreapp2.0\HashTable.AssemblyInfoInputs.cache
+c:\users\ozkaya\source\repos\HassTableApp\HashTable\obj\Debug\netcoreapp2.0\HashTable.AssemblyInfo.cs
+c:\users\ozkaya\source\repos\HassTableApp\HashTable\obj\Debug\netcoreapp2.0\HashTable.dll
+c:\users\ozkaya\source\repos\HassTableApp\HashTable\obj\Debug\netcoreapp2.0\HashTable.pdb
